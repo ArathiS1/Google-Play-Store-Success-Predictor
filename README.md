@@ -14,7 +14,7 @@
 
 This project delivers an end-to-end analytical framework to diagnose the health of the Google Play ecosystem and predict app success. By leveraging machine learning and sentiment analysis on over 1 million user reviews, this work provides actionable intelligence for platform strategy, developer success, and user satisfaction.
 
-**🎯 Live Dashboard Prototype:** [View Power BI Dashboard](#) *(Simulated Link)*
+
 
 ---
 
