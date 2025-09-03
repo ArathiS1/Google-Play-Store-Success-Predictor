@@ -1,5 +1,5 @@
 
-# 🚀 Google Play Ecosystem Health & Predictive Intelligence Dashboard
+# 🚀 Google Play Ecosystem Health & Predictive Intelligence Dashboard   
 
 ### Identifying Success Drivers and At-Risk Applications | A Data Science Case Study
 
