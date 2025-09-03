@@ -76,10 +76,6 @@ Created powerful predictive features for modeling:
 - Used **SHAP (SHapley Additive exPlanations)** to demystify the "black box" model.
 - **Identified and quantified the most important drivers** of app success, providing transparent and actionable insights.
 
-### 7. Dashboard & Deployment
-- Results and cleaned data were prepared for integration into an interactive **Power BI Dashboard**.
-- An "Early Warning" list of apps was generated for proactive business intervention.
-
 ---
 
 ## 📊 Results & Business Impact
